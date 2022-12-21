@@ -66,7 +66,7 @@ public class CatalogPage extends AbstractPage {
         try {
             wait.until(ExpectedConditions.elementToBeClickable(wrongEl));
         } catch (TimeoutException e) {
-            logger.info("attempt to get code of ");
+            logger.info("get product code");
             return nameProduct.getText();
         }
         return "";
@@ -78,6 +78,7 @@ public class CatalogPage extends AbstractPage {
         Actions actions = new Actions(driver);
         actions.moveToElement(firstProduct).perform();
         addPutProductButton.get(0).click();
+        logger.info("hover and click on the product card");
         return this;
     }
 
@@ -87,22 +88,32 @@ public class CatalogPage extends AbstractPage {
         Actions actions = new Actions(driver);
         actions.moveToElement(secondProduct).perform();
         addPutProductButton.get(1).click();
+        logger.info("hover and click on the product card");
         return this;
     }
 
     public CatalogPage clickSearchButton() {
         searchButton.click();
+        logger.info("click search button");
         return this;
     }
 
     public CatalogPage clickBrandButton() {
         filterByBrandButton.click();
+        logger.info("click filter button");
         return this;
     }
 
     public CatalogPage clickChooseBrandButton() {
         wait.until(ExpectedConditions.elementToBeClickable(chooseBrandButton)).click();
         wait.until(ExpectedConditions.elementToBeClickable(filterByBrandButton));
+        logger.info("click brand button");
+        return this;
+    }
+
+    public CatalogPage clickContinionsShoppingButton() {
+        wait.until(ExpectedConditions.elementToBeClickable(continionsSpoppingButton)).click();
+        logger.info("click continion button");
         return this;
     }
 
@@ -112,11 +123,6 @@ public class CatalogPage extends AbstractPage {
 
     public CatalogPage typeTextInInput(String keys) {
         inputLine.sendKeys(keys);
-        return this;
-    }
-
-    public CatalogPage clickContinionsShoppingButton() {
-        wait.until(ExpectedConditions.elementToBeClickable(continionsSpoppingButton)).click();
         return this;
     }
 

@@ -11,7 +11,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
 public class ContinueShoppingTest extends CommonConditions {
-
     @Test
     public void testContinueShoppingWithHelpButton() {
         CatalogPage catalogPage = new CatalogPage(driver);
@@ -23,4 +22,5 @@ public class ContinueShoppingTest extends CommonConditions {
 
         assertThat(resultPagePosition, is(PAGE_POSITION));
     }
+
 }

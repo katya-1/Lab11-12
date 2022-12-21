@@ -9,7 +9,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
 public class SearchProductByNameTest extends CommonConditions {
-
     @Test
     public void testSearchingByName() {
         CatalogPage catalogPage = new CatalogPage(driver);

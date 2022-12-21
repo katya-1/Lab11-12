@@ -1,6 +1,8 @@
 package com.by.pages;
 
 import com.by.conts.PageNaming;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -12,6 +14,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class CartPage extends AbstractPage {
+    private final Logger logger = LogManager.getRootLogger();
+    public static final String PATTERN ="[0-9]{4,5}";
 
     @FindBy(css = "p[class='small']")
     WebElement productSKU;
@@ -42,9 +46,36 @@ public class CartPage extends AbstractPage {
         return this;
     }
 
+    public Integer getFinishPrice() {
+        String res = finishPriceProductInCart.getText().replaceAll(" ", "");
+        Pattern pattern = Pattern.compile(PATTERN);
+        Matcher matcher = pattern.matcher(res);
+        logger.info("calculate sum");
+        return matcher.find() ? Integer.parseInt(matcher.group()) : 0;
+    }
+
+    public List<Integer> getPriceProductInCart() {
+        List<Integer> allPricesInCart = new ArrayList<>();
+        for (var i : priceProductInCart) {
+            String res = i.getText().replaceAll(" ", "");
+            Pattern pattern = Pattern.compile(PATTERN);
+            Matcher matcher = pattern.matcher(res);
+            allPricesInCart.add(matcher.find() ? Integer.parseInt(matcher.group()) : 0);
+        }
+        logger.info("get price product");
+        return allPricesInCart;
+    }
+
     public CartPage clickRemoveButton() {
         wait.until(ExpectedConditions.elementToBeClickable(removeButton));
         removeButton.click();
+        logger.info("remove product at cart");
+        return this;
+    }
+
+    public CartPage clickAddEqualsProductButton() {
+        addEqualsProductButton.click();
+        logger.info("add product to cart");
         return this;
     }
 
@@ -56,26 +87,4 @@ public class CartPage extends AbstractPage {
         return cartEmpty.getText();
     }
 
-    public Integer getFinishPrice() {
-        String res = finishPriceProductInCart.getText().replaceAll(" ", "");
-        Pattern pattern = Pattern.compile("[0-9]{4,5}");
-        Matcher matcher = pattern.matcher(res);
-        return matcher.find() ? Integer.parseInt(matcher.group()) : 0;
-    }
-
-    public CartPage clickAddEqualsProductButton() {
-        addEqualsProductButton.click();
-        return this;
-    }
-
-    public List<Integer> getPriceProductInCart() {
-        List<Integer> allPricesInCart = new ArrayList<>();
-        for (var i : priceProductInCart) {
-            String res = i.getText().replaceAll(" ", "");
-            Pattern pattern = Pattern.compile("[0-9]{4,5}");
-            Matcher matcher = pattern.matcher(res);
-            allPricesInCart.add(matcher.find() ? Integer.parseInt(matcher.group()) : 0);
-        }
-        return allPricesInCart;
-    }
 }

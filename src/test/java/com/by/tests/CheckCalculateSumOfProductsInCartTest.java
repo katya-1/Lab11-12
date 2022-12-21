@@ -9,10 +9,9 @@ import java.util.List;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
-public class ChekingSumOfProductsInCartTest extends CommonConditions {
-
+public class CheckCalculateSumOfProductsInCartTest extends CommonConditions {
     @Test
-    public void testAddPwoProductInCart() {
+    public void testCalculateSumOfProductInCart() {
         CatalogPage catalogPage = new CatalogPage(driver);
         CartPage cartPage = new CartPage(driver);
 
