@@ -17,7 +17,6 @@ public class CommonConditions {
     @BeforeMethod()
     public void setUp() {
         driver = DriverSingleton.getDriver();
-        WebDriverManager.chromedriver().setup();
         driver.manage().deleteAllCookies();
     }
 
