@@ -106,7 +106,7 @@ public class CatalogPage extends AbstractPage {
 
     public CatalogPage clickChooseBrandButton() {
         wait.until(ExpectedConditions.elementToBeClickable(chooseBrandButton)).click();
-        wait.until(ExpectedConditions.elementToBeClickable(filterByBrandButton));
+        //wait.until(ExpectedConditions.elementToBeClickable(filterByBrandButton));
         logger.info("click brand button");
         return this;
     }
