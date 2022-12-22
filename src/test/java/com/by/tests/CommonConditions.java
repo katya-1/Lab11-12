@@ -15,7 +15,7 @@ public class CommonConditions {
     protected WebDriver driver;
 
     @BeforeMethod()
-    public void setUp() throws MalformedURLException {
+    public void setUp() {
         driver = DriverSingleton.getDriver();
         WebDriverManager.chromedriver().setup();
         driver.manage().deleteAllCookies();

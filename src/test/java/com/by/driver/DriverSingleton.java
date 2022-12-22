@@ -12,11 +12,19 @@ public class DriverSingleton {
     }
 
     public static WebDriver getDriver() {
-        if (null == driver) {
-            WebDriverManager.chromedriver().setup();
-            driver = new ChromeDriver();
-            driver.manage().window().maximize();
+        if (null == driver){
+        switch (System.getProperty("browser")) {
+            case "firefox": {
+                WebDriverManager.firefoxdriver().setup();
+                driver = new FirefoxDriver();
+            }
+            default: {
+                WebDriverManager.chromedriver().setup();
+                driver = new ChromeDriver();
+            }
         }
+        driver.manage().window().maximize();
+    }
         return driver;
     }
 
