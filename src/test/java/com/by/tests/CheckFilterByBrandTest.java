@@ -1,23 +1,28 @@
 package com.by.tests;
 
+import com.by.pages.CartPage;
 import com.by.pages.CatalogPage;
+import com.by.pages.ProductPage;
 import org.testng.annotations.Test;
 
 import static com.by.conts.TestConstant.BRAND_NAME;
+import static com.by.conts.TestConstant.CART_EMPTY;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.is;
 
 public class CheckFilterByBrandTest extends CommonConditions {
     @Test
     public void testFilterByBrand() {
-        CatalogPage catalogPage = new CatalogPage(driver);
+            ProductPage productPage = new ProductPage(driver);
+            CartPage cartPage = new CartPage(driver);
 
-        catalogPage.openPage()
-                .clickBrandButton()
-                .clickChooseBrandButton();
-                //.clickBrandButton();
-        String resultBrandProduct = catalogPage.getBrandProduct();
+            productPage.openPage()
+                    .clickAddToCartButton()
+                    .clickGoToCart();
+            cartPage.openPage()
+                    .clickRemoveButton();
+            String resultEmptyCart = cartPage.getCartEmpty();
 
-        assertThat(resultBrandProduct, is(BRAND_NAME));
+            assertThat(resultEmptyCart, is(CART_EMPTY));
     }
 }
