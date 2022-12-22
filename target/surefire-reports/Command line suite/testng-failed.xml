@@ -3,13 +3,20 @@
 <suite name="Failed suite [Command line suite]" verbose="0">
   <test thread-count="5" name="Command line test(failed)" verbose="0">
     <classes>
-      <class name="com.by.tests.AddToFavTest">
+      <class name="com.by.tests.AddToCartTest">
         <methods>
-          <include name="testAddTofAV"/>
-          <include name="stopBrowser"/>
           <include name="setUp"/>
+          <include name="stopBrowser"/>
+          <include name="testAdditionToCart"/>
         </methods>
-      </class> <!-- com.by.tests.AddToFavTest -->
+      </class> <!-- com.by.tests.AddToCartTest -->
+      <class name="com.by.tests.CheckCalculateSumOfProductsInCartTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testCalculateSumOfProductInCart"/>
+          <include name="stopBrowser"/>
+        </methods>
+      </class> <!-- com.by.tests.CheckCalculateSumOfProductsInCartTest -->
     </classes>
   </test> <!-- Command line test(failed) -->
 </suite> <!-- Failed suite [Command line suite] -->

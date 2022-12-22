@@ -11,6 +11,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <build>
@@ -18,7 +19,10 @@
             <plugins>
                 <plugin> <groupId>org.apache.maven (https://automated-testing.info/tags/maven).plugins</groupId>
                     <artifactId>maven-surefire-plugin</artifactId>
-                    <version>2.19.1</version>
+                    <version>3.3.0</version>
+                    <configuration>
+                        <encoding>UTF-8</encoding>
+                    </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>

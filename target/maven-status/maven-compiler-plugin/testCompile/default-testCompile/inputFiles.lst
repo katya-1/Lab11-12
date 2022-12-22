@@ -1,23 +1,20 @@
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\FilterByCollectionTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\LoginTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\pages\HomePage.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\conts\ConstsForTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\SortByNameTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\driver\DriverSingleton.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\Main.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\conts\UserConsts.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\FindProductByCodeTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\model\User.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\FilterByMaxPriceTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\service\TestDataReader.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\pages\CatalogPage.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\pages\ProfilePage.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\service\UserCreator.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\pages\AbstractPage.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\CommonCondition.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\AddToFavTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\PutProductInBucketTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\pages\ShoppingPage.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\tests\ToTopTest.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\conts\PageNames.java
-D:\study\tat\Lab11Frame\src\test\java\com\by\util\TestListener.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\service\UserCreator.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\pages\CatalogPage.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\service\TestDataReader.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\CheckRemoveProductTest.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\conts\PageNaming.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\ContinueShoppingTest.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\CommonConditions.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\SearchProductByNameTest.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\pages\ProductPage.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\conts\TestConstant.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\conts\UserTestConsts.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\pages\CartPage.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\util\TestListener.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\pages\AbstractPage.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\AddToCartTest.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\model\User.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\CheckCalculateSumOfProductsInCartTest.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\driver\DriverSingleton.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\CheckFilterByBrandTest.java
+E:\3 курс\Новая папка\Lab11-12\src\test\java\com\by\tests\AddEqualsProductToCartTest.java

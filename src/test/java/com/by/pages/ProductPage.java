@@ -37,6 +37,7 @@ public class ProductPage extends AbstractPage {
 
     public ProductPage clickGoToCart() {
         wait.until(ExpectedConditions.elementToBeClickable(toCartButton));
+        wait.until(ExpectedConditions.elementToBeClickable(toCartButton));
         toCartButton.click();
         logger.info("click go to card button");
         return this;

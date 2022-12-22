@@ -80,6 +80,7 @@ public class CartPage extends AbstractPage {
     }
 
     public String getProductCode() {
+        wait.until(ExpectedConditions.elementToBeClickable(productSKU));
         return productSKU.getText();
     }
 

@@ -8,3 +8,298 @@
 2022-12-21 16:47:44,953 INFO  [main] attempt to get code of 
 2022-12-21 16:54:17,015 INFO  [main] attempt to get code of 
 2022-12-21 22:52:46,938 INFO  [main] attempt to get code of 
+2022-12-22 02:35:22,255 INFO  [main] get price of product
+2022-12-22 02:35:22,376 INFO  [main] click add to card button
+2022-12-22 02:35:24,504 INFO  [main] click go to card button
+2022-12-22 02:35:26,571 INFO  [main] add product to cart
+2022-12-22 02:35:26,628 INFO  [main] get price product
+2022-12-22 02:35:34,041 INFO  [main] click add to card button
+2022-12-22 02:35:35,824 INFO  [main] click go to card button
+2022-12-22 02:35:45,790 INFO  [main] get price of product
+2022-12-22 02:35:46,148 INFO  [main] click add to card button
+2022-12-22 02:35:48,301 INFO  [main] click go to card button
+2022-12-22 02:35:50,325 INFO  [main] add product to cart
+2022-12-22 02:35:50,413 INFO  [main] get price product
+2022-12-22 02:35:59,255 INFO  [main] hover and click on the product card
+2022-12-22 02:36:00,958 INFO  [main] click continion button
+2022-12-22 02:36:01,543 INFO  [main] hover and click on the product card
+2022-12-22 02:36:03,376 INFO  [main] click continion button
+2022-12-22 02:36:04,802 INFO  [main] get price product
+2022-12-22 02:36:04,929 INFO  [main] calculate sum
+2022-12-22 02:36:12,621 INFO  [main] click filter button
+2022-12-22 02:36:13,094 INFO  [main] click brand button
+2022-12-22 02:36:13,212 INFO  [main] click filter button
+2022-12-22 02:36:20,307 INFO  [main] click add to card button
+2022-12-22 02:36:22,664 INFO  [main] click go to card button
+2022-12-22 02:36:26,134 INFO  [main] remove product at cart
+2022-12-22 02:36:35,764 INFO  [main] click filter button
+2022-12-22 02:36:36,261 INFO  [main] click brand button
+2022-12-22 02:36:36,427 INFO  [main] click filter button
+2022-12-22 02:36:45,018 INFO  [main] hover and click on the product card
+2022-12-22 02:36:46,839 INFO  [main] click continion button
+2022-12-22 02:36:47,426 INFO  [main] hover and click on the product card
+2022-12-22 02:36:48,598 INFO  [main] click continion button
+2022-12-22 02:36:50,177 INFO  [main] get price product
+2022-12-22 02:36:50,313 INFO  [main] calculate sum
+2022-12-22 02:37:00,571 INFO  [main] hover and click on the product card
+2022-12-22 02:37:02,297 INFO  [main] click continion button
+2022-12-22 02:37:12,111 INFO  [main] click search button
+2022-12-22 02:37:23,161 INFO  [main] get product code
+2022-12-22 02:47:35,876 INFO  [main] get price of product
+2022-12-22 02:47:36,147 INFO  [main] click add to card button
+2022-12-22 02:47:38,409 INFO  [main] click go to card button
+2022-12-22 02:47:39,991 INFO  [main] add product to cart
+2022-12-22 02:47:40,344 INFO  [main] get price product
+2022-12-22 02:47:48,329 INFO  [main] click add to card button
+2022-12-22 02:47:50,489 INFO  [main] click go to card button
+2022-12-22 02:47:58,902 INFO  [main] get price of product
+2022-12-22 02:47:59,005 INFO  [main] click add to card button
+2022-12-22 02:48:01,254 INFO  [main] click go to card button
+2022-12-22 02:48:02,836 INFO  [main] add product to cart
+2022-12-22 02:48:03,076 INFO  [main] get price product
+2022-12-22 02:48:10,951 INFO  [main] hover and click on the product card
+2022-12-22 02:48:12,409 INFO  [main] click continion button
+2022-12-22 02:48:12,991 INFO  [main] hover and click on the product card
+2022-12-22 02:48:13,975 INFO  [main] click continion button
+2022-12-22 02:48:15,524 INFO  [main] get price product
+2022-12-22 02:48:15,635 INFO  [main] calculate sum
+2022-12-22 02:48:23,429 INFO  [main] click filter button
+2022-12-22 02:48:23,875 INFO  [main] click brand button
+2022-12-22 02:48:23,998 INFO  [main] click filter button
+2022-12-22 02:48:30,816 INFO  [main] click add to card button
+2022-12-22 02:48:33,020 INFO  [main] click go to card button
+2022-12-22 02:48:35,858 INFO  [main] remove product at cart
+2022-12-22 02:48:45,576 INFO  [main] click filter button
+2022-12-22 02:48:45,959 INFO  [main] click brand button
+2022-12-22 02:48:46,073 INFO  [main] click filter button
+2022-12-22 02:48:54,424 INFO  [main] hover and click on the product card
+2022-12-22 02:48:56,108 INFO  [main] click continion button
+2022-12-22 02:48:56,526 INFO  [main] hover and click on the product card
+2022-12-22 02:48:57,462 INFO  [main] click continion button
+2022-12-22 02:48:59,145 INFO  [main] get price product
+2022-12-22 02:48:59,201 INFO  [main] calculate sum
+2022-12-22 02:49:08,961 INFO  [main] hover and click on the product card
+2022-12-22 02:49:10,495 INFO  [main] click continion button
+2022-12-22 02:49:20,800 INFO  [main] click search button
+2022-12-22 02:49:31,186 INFO  [main] get product code
+2022-12-22 02:53:16,195 INFO  [main] get price of product
+2022-12-22 02:53:16,480 INFO  [main] click add to card button
+2022-12-22 02:53:18,008 INFO  [main] click go to card button
+2022-12-22 02:53:19,399 INFO  [main] add product to cart
+2022-12-22 02:53:19,483 INFO  [main] get price product
+2022-12-22 02:53:35,018 INFO  [main] click add to card button
+2022-12-22 02:53:40,153 INFO  [main] click go to card button
+2022-12-22 02:54:02,678 INFO  [main] get price of product
+2022-12-22 02:54:03,070 INFO  [main] click add to card button
+2022-12-22 02:54:05,109 INFO  [main] click go to card button
+2022-12-22 02:54:20,209 INFO  [main] hover and click on the product card
+2022-12-22 02:54:21,885 INFO  [main] click continion button
+2022-12-22 02:54:22,450 INFO  [main] hover and click on the product card
+2022-12-22 02:54:23,400 INFO  [main] click continion button
+2022-12-22 02:54:24,515 INFO  [main] get price product
+2022-12-22 02:54:24,648 INFO  [main] calculate sum
+2022-12-22 02:54:38,178 INFO  [main] click filter button
+2022-12-22 02:54:38,955 INFO  [main] click brand button
+2022-12-22 02:54:39,042 INFO  [main] click filter button
+2022-12-22 02:54:53,056 INFO  [main] click add to card button
+2022-12-22 02:54:55,079 INFO  [main] click go to card button
+2022-12-22 02:54:58,719 INFO  [main] remove product at cart
+2022-12-22 02:55:16,489 INFO  [main] click filter button
+2022-12-22 02:55:16,770 INFO  [main] click brand button
+2022-12-22 02:55:16,905 INFO  [main] click filter button
+2022-12-22 02:55:30,317 INFO  [main] hover and click on the product card
+2022-12-22 02:55:31,899 INFO  [main] click continion button
+2022-12-22 02:55:32,429 INFO  [main] hover and click on the product card
+2022-12-22 02:55:33,406 INFO  [main] click continion button
+2022-12-22 02:55:34,495 INFO  [main] get price product
+2022-12-22 02:55:34,690 INFO  [main] calculate sum
+2022-12-22 02:55:45,236 INFO  [main] hover and click on the product card
+2022-12-22 02:55:46,855 INFO  [main] click continion button
+2022-12-22 02:55:56,952 INFO  [main] click search button
+2022-12-22 02:56:07,827 INFO  [main] get product code
+2022-12-22 02:58:14,409 INFO  [main] get price of product
+2022-12-22 02:58:14,725 INFO  [main] click add to card button
+2022-12-22 02:58:17,309 INFO  [main] click go to card button
+2022-12-22 02:58:19,092 INFO  [main] add product to cart
+2022-12-22 02:58:19,178 INFO  [main] get price product
+2022-12-22 02:58:42,753 INFO  [main] click add to card button
+2022-12-22 02:58:45,583 INFO  [main] click go to card button
+2022-12-22 02:59:21,954 INFO  [main] get price of product
+2022-12-22 02:59:22,118 INFO  [main] click add to card button
+2022-12-22 02:59:51,612 INFO  [main] click go to card button
+2022-12-22 02:59:53,239 INFO  [main] add product to cart
+2022-12-22 02:59:53,286 INFO  [main] get price product
+2022-12-22 03:00:03,614 INFO  [main] hover and click on the product card
+2022-12-22 03:00:10,371 INFO  [main] click continion button
+2022-12-22 03:00:10,853 INFO  [main] hover and click on the product card
+2022-12-22 03:00:12,586 INFO  [main] click continion button
+2022-12-22 03:00:14,237 INFO  [main] get price product
+2022-12-22 03:00:14,480 INFO  [main] calculate sum
+2022-12-22 03:00:24,573 INFO  [main] click filter button
+2022-12-22 03:00:25,056 INFO  [main] click brand button
+2022-12-22 03:00:25,193 INFO  [main] click filter button
+2022-12-22 03:00:35,160 INFO  [main] click add to card button
+2022-12-22 03:00:37,148 INFO  [main] click go to card button
+2022-12-22 03:00:40,768 INFO  [main] remove product at cart
+2022-12-22 03:00:51,340 INFO  [main] click filter button
+2022-12-22 03:00:51,898 INFO  [main] click brand button
+2022-12-22 03:00:52,018 INFO  [main] click filter button
+2022-12-22 03:01:06,355 INFO  [main] hover and click on the product card
+2022-12-22 03:01:07,846 INFO  [main] click continion button
+2022-12-22 03:01:08,274 INFO  [main] hover and click on the product card
+2022-12-22 03:01:09,422 INFO  [main] click continion button
+2022-12-22 03:01:10,565 INFO  [main] get price product
+2022-12-22 03:01:10,663 INFO  [main] calculate sum
+2022-12-22 03:01:22,005 INFO  [main] hover and click on the product card
+2022-12-22 03:01:23,582 INFO  [main] click continion button
+2022-12-22 03:01:32,093 INFO  [main] click search button
+2022-12-22 03:01:43,193 INFO  [main] get product code
+2022-12-22 03:27:59,655 INFO  [main] click add to card button
+2022-12-22 03:28:03,671 INFO  [main] click go to card button
+2022-12-22 03:28:03,702 INFO  [main] get price of product
+2022-12-22 03:29:33,263 INFO  [main] click add to card button
+2022-12-22 03:29:34,959 INFO  [main] click go to card button
+2022-12-22 03:29:34,991 INFO  [main] get price of product
+2022-12-22 03:30:29,575 INFO  [main] click add to card button
+2022-12-22 03:30:38,241 INFO  [main] click go to card button
+2022-12-22 03:30:38,285 INFO  [main] get price of product
+2022-12-22 03:31:07,175 INFO  [main] click add to card button
+2022-12-22 03:31:08,576 INFO  [main] click go to card button
+2022-12-22 03:31:08,622 INFO  [main] get price of product
+2022-12-22 03:33:34,914 INFO  [main] click add to card button
+2022-12-22 03:33:38,380 INFO  [main] click go to card button
+2022-12-22 03:33:38,409 INFO  [main] get price of product
+2022-12-22 03:35:36,016 INFO  [main] click add to card button
+2022-12-22 03:35:39,457 INFO  [main] click go to card button
+2022-12-22 03:35:39,493 INFO  [main] get price of product
+2022-12-22 03:39:49,424 INFO  [main] click add to card button
+2022-12-22 03:39:51,347 INFO  [main] click go to card button
+2022-12-22 03:39:51,440 INFO  [main] get price of product
+2022-12-22 03:40:46,149 INFO  [main] click add to card button
+2022-12-22 03:40:47,835 INFO  [main] click go to card button
+2022-12-22 03:40:48,678 INFO  [main] get price of product
+2022-12-22 03:42:30,334 INFO  [main] click add to card button
+2022-12-22 03:42:32,028 INFO  [main] click go to card button
+2022-12-22 03:42:32,931 INFO  [main] get price of product
+2022-12-22 03:47:55,199 INFO  [main] click add to card button
+2022-12-22 03:47:57,941 INFO  [main] click go to card button
+2022-12-22 03:47:58,730 INFO  [main] get price of product
+2022-12-22 03:49:13,806 INFO  [main] click add to card button
+2022-12-22 03:49:15,419 INFO  [main] click go to card button
+2022-12-22 03:49:15,502 INFO  [main] get price of product
+2022-12-22 03:50:07,558 INFO  [main] click add to card button
+2022-12-22 03:50:09,593 INFO  [main] click go to card button
+2022-12-22 03:51:02,839 INFO  [main] click add to card button
+2022-12-22 03:51:04,721 INFO  [main] click go to card button
+2022-12-22 03:51:42,618 INFO  [main] get price of product
+2022-12-22 03:51:42,699 INFO  [main] click add to card button
+2022-12-22 03:51:44,242 INFO  [main] click go to card button
+2022-12-22 03:51:45,024 INFO  [main] add product to cart
+2022-12-22 03:51:45,148 INFO  [main] get price product
+2022-12-22 03:52:00,811 INFO  [main] click add to card button
+2022-12-22 03:52:02,785 INFO  [main] click go to card button
+2022-12-22 03:52:18,304 INFO  [main] hover and click on the product card
+2022-12-22 03:52:20,079 INFO  [main] click continion button
+2022-12-22 03:52:20,544 INFO  [main] hover and click on the product card
+2022-12-22 03:52:21,686 INFO  [main] click continion button
+2022-12-22 03:52:23,161 INFO  [main] get price product
+2022-12-22 03:52:23,431 INFO  [main] calculate sum
+2022-12-22 03:52:35,892 INFO  [main] click filter button
+2022-12-22 03:52:36,474 INFO  [main] click brand button
+2022-12-22 03:52:36,581 INFO  [main] click filter button
+2022-12-22 03:52:49,794 INFO  [main] click add to card button
+2022-12-22 03:52:51,877 INFO  [main] click go to card button
+2022-12-22 03:52:54,670 INFO  [main] remove product at cart
+2022-12-22 03:53:08,345 INFO  [main] hover and click on the product card
+2022-12-22 03:53:10,039 INFO  [main] click continion button
+2022-12-22 03:53:24,463 INFO  [main] click search button
+2022-12-22 03:53:35,228 INFO  [main] get product code
+2022-12-22 03:56:08,151 INFO  [main] click add to card button
+2022-12-22 03:56:10,313 INFO  [main] click go to card button
+2022-12-22 03:56:47,119 INFO  [main] get price of product
+2022-12-22 03:56:47,463 INFO  [main] click add to card button
+2022-12-22 03:56:49,545 INFO  [main] click go to card button
+2022-12-22 03:56:51,519 INFO  [main] add product to cart
+2022-12-22 03:56:51,589 INFO  [main] get price product
+2022-12-22 03:57:06,040 INFO  [main] click add to card button
+2022-12-22 03:57:08,363 INFO  [main] click go to card button
+2022-12-22 03:57:23,397 INFO  [main] hover and click on the product card
+2022-12-22 03:57:24,900 INFO  [main] click continion button
+2022-12-22 03:57:25,421 INFO  [main] hover and click on the product card
+2022-12-22 03:57:26,646 INFO  [main] click continion button
+2022-12-22 03:57:28,079 INFO  [main] get price product
+2022-12-22 03:57:28,228 INFO  [main] calculate sum
+2022-12-22 03:57:41,738 INFO  [main] click filter button
+2022-12-22 03:57:42,500 INFO  [main] click brand button
+2022-12-22 03:57:42,704 INFO  [main] click filter button
+2022-12-22 03:58:00,529 INFO  [main] click add to card button
+2022-12-22 03:58:02,190 INFO  [main] click go to card button
+2022-12-22 03:58:05,610 INFO  [main] remove product at cart
+2022-12-22 03:58:18,728 INFO  [main] hover and click on the product card
+2022-12-22 03:58:20,414 INFO  [main] click continion button
+2022-12-22 03:58:34,309 INFO  [main] click search button
+2022-12-22 03:58:45,070 INFO  [main] get product code
+2022-12-22 04:00:18,431 INFO  [main] get price of product
+2022-12-22 04:00:18,731 INFO  [main] click add to card button
+2022-12-22 04:00:20,558 INFO  [main] click go to card button
+2022-12-22 04:00:21,499 INFO  [main] add product to cart
+2022-12-22 04:00:21,776 INFO  [main] get price product
+2022-12-22 04:00:35,405 INFO  [main] click add to card button
+2022-12-22 04:00:37,197 INFO  [main] click go to card button
+2022-12-22 04:00:49,676 INFO  [main] hover and click on the product card
+2022-12-22 04:00:50,986 INFO  [main] click continion button
+2022-12-22 04:00:51,490 INFO  [main] hover and click on the product card
+2022-12-22 04:00:52,418 INFO  [main] click continion button
+2022-12-22 04:00:53,556 INFO  [main] get price product
+2022-12-22 04:00:53,594 INFO  [main] calculate sum
+2022-12-22 04:01:05,685 INFO  [main] click filter button
+2022-12-22 04:01:06,078 INFO  [main] click brand button
+2022-12-22 04:01:06,290 INFO  [main] click filter button
+2022-12-22 04:01:20,053 INFO  [main] click add to card button
+2022-12-22 04:01:21,731 INFO  [main] click go to card button
+2022-12-22 04:01:25,338 INFO  [main] remove product at cart
+2022-12-22 04:02:39,700 INFO  [main] click search button
+2022-12-22 04:02:50,388 INFO  [main] get product code
+2022-12-22 04:04:05,376 INFO  [main] get price of product
+2022-12-22 04:04:05,561 INFO  [main] click add to card button
+2022-12-22 04:04:07,918 INFO  [main] click go to card button
+2022-12-22 04:04:10,287 INFO  [main] add product to cart
+2022-12-22 04:04:10,414 INFO  [main] get price product
+2022-12-22 04:04:23,326 INFO  [main] click add to card button
+2022-12-22 04:04:25,277 INFO  [main] click go to card button
+2022-12-22 04:04:38,830 INFO  [main] hover and click on the product card
+2022-12-22 04:04:40,531 INFO  [main] click continion button
+2022-12-22 04:04:41,064 INFO  [main] hover and click on the product card
+2022-12-22 04:05:05,592 INFO  [main] click filter button
+2022-12-22 04:05:06,105 INFO  [main] click brand button
+2022-12-22 04:05:06,303 INFO  [main] click filter button
+2022-12-22 04:05:19,380 INFO  [main] click add to card button
+2022-12-22 04:05:21,288 INFO  [main] click go to card button
+2022-12-22 04:05:24,454 INFO  [main] remove product at cart
+2022-12-22 04:05:37,058 INFO  [main] hover and click on the product card
+2022-12-22 04:05:38,689 INFO  [main] click continion button
+2022-12-22 04:05:50,727 INFO  [main] click search button
+2022-12-22 04:06:01,528 INFO  [main] get product code
+2022-12-22 04:07:44,958 INFO  [main] get price of product
+2022-12-22 04:07:45,303 INFO  [main] click add to card button
+2022-12-22 04:07:47,252 INFO  [main] click go to card button
+2022-12-22 04:07:49,752 INFO  [main] add product to cart
+2022-12-22 04:07:49,817 INFO  [main] get price product
+2022-12-22 04:08:03,310 INFO  [main] click add to card button
+2022-12-22 04:08:05,185 INFO  [main] click go to card button
+2022-12-22 04:08:17,567 INFO  [main] hover and click on the product card
+2022-12-22 04:08:19,249 INFO  [main] click continion button
+2022-12-22 04:08:19,834 INFO  [main] hover and click on the product card
+2022-12-22 04:08:21,027 INFO  [main] click continion button
+2022-12-22 04:08:22,258 INFO  [main] get price product
+2022-12-22 04:08:22,315 INFO  [main] calculate sum
+2022-12-22 04:08:34,805 INFO  [main] click filter button
+2022-12-22 04:08:35,452 INFO  [main] click brand button
+2022-12-22 04:08:35,688 INFO  [main] click filter button
+2022-12-22 04:08:49,128 INFO  [main] click add to card button
+2022-12-22 04:08:51,520 INFO  [main] click go to card button
+2022-12-22 04:08:54,770 INFO  [main] remove product at cart
+2022-12-22 04:09:07,801 INFO  [main] hover and click on the product card
+2022-12-22 04:09:09,398 INFO  [main] click continion button
+2022-12-22 04:09:21,819 INFO  [main] click search button
+2022-12-22 04:09:32,557 INFO  [main] get product code
