@@ -99,7 +99,7 @@ public class CatalogPage extends AbstractPage {
     }
 
     public CatalogPage clickBrandButton() {
-        filterByBrandButton.click();
+        wait.until(ExpectedConditions.elementToBeClickable(filterByBrandButton)).click();
         logger.info("click filter button");
         return this;
     }
