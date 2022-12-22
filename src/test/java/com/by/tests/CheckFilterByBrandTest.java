@@ -14,8 +14,8 @@ public class CheckFilterByBrandTest extends CommonConditions {
 
         catalogPage.openPage()
                 .clickBrandButton()
-                .clickChooseBrandButton()
-                .clickBrandButton();
+                .clickChooseBrandButton();
+                //.clickBrandButton();
         String resultBrandProduct = catalogPage.getBrandProduct();
 
         assertThat(resultBrandProduct, is(BRAND_NAME));
